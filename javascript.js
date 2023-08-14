@@ -27,7 +27,7 @@ const soundTigre = "Tiger.wav";
 const soundFail = "Fail.wav";
 
 // Starting conditions
-console.log(scoreOEl.textContent);
+console.log(score0El.textContent);
 console.log(score1El.textContent);
 if(score0El) score0El.textContent =0;
 if(score1El) score1El.textContent =0;
