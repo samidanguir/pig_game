@@ -27,8 +27,8 @@ const soundTigre = "Tiger.wav";
 const soundFail = "Fail.wav";
 
 // Starting conditions
-score0El.textContent = '0';
-score1El.textContent = '0';
+score0El.textContent =0;
+score1El.textContent =0;
 //diceEl.classList.add('.hidden');
 
 let scores;
