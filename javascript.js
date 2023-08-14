@@ -25,7 +25,7 @@ const soundMouton = "Mouton.wav";
 const soundLoup = "Hurlement_du_loup.wav";
 const soundTigre = "Tiger.wav";
 const soundFail = "Fail.wav";
-
+ 
 // Starting conditions
 console.log(score0El.textContent);
 console.log(score1El.textContent);
